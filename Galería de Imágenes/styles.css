@@ -1,0 +1,30 @@
+body {
+    background-color: #AEB6BF;;
+}
+
+.image{
+    border: 5px solid black;
+    border-radius: 1px;
+    height: 400px;
+}
+
+.link-button {
+    
+        display         : inline-block;
+        border-radius   : 4px;
+        background-color: #f4511e;
+        border          : none;
+        color           : #FFFFFF;
+        text-align      : center;
+        font-size       : 28px;
+        padding         : 20px;
+        width           : 200px;
+        text-decoration : none;
+    
+}
+p.descriptivo{
+    font-size: xx-small;
+}
+h1, h2{
+    color:black
+    }
